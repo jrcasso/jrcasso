@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I'm Justin! Here's some work I think is cool and would like to share:
+I'm Justin! Over the years my interests have revolved around devops tooling, automation/orchestration, and scientific computing.
+
+Here's some work I think is cool/useful and would like to share:
 
 ---
 ### Web Application Templates
