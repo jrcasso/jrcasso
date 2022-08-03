@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Justin! Here's some stuff I think is kinda cool and would like to share:
+I'm Justin! Here's some work I think is cool and would like to share:
 
 ---
 ### Web Application Templates
