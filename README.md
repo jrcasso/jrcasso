@@ -12,6 +12,7 @@ These are template codebases that are ready to be copied for your next project. 
 | Repository                 | Description |
 | - | - |
 | [django-app-template](https://github.com/jrcasso/django-app-template)    | A template codebase for new Django applications, complete with a container-native development setup. |
+| [go-app-template](https://github.com/jrcasso/go-app-template)    | A template codebase for new Go applications or libraries, complete with a container-native development setup. |
 | [rails-app-template](https://github.com/jrcasso/rails-app-template)     | A template codebase for new Rails applications, complete with a container-native development setup. |
 
 ### Tools and Data Applications
