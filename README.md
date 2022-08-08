@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm Justin! Over the years my interests have revolved around devops tooling, automation/orchestration, and scientific computing.
+I tinker around many of the broad areas in tech. Over the years my interests have revolved around devops tooling, automation/orchestration, and scientific computing. I also dable in embedded systems programming, particularly in the context of IoT.
 
-Here's some work I think is cool/useful and would like to share:
+Anyways, here are some projects I think are cool or useful. Let me know what you think.
 
 ---
 ### Web Application Templates
