@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I tinker around many of the broad areas in tech. Over the years my interests have revolved around devops tooling, automation/orchestration, and scientific computing. I also dable in embedded systems programming, particularly in the context of IoT.
+I tinker around many of the broad areas in tech. Over the years my interests have revolved around devops tooling, automation/orchestration, and scientific computing. I also dabble in embedded systems programming, particularly in the context of IoT.
 
 Anyways, here are some projects I think are cool or useful. Let me know what you think.
 
