@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I tinker around many of the broad areas in tech. Over the years my interests have revolved around devops tooling, automation/orchestration, and scientific computing. I also dabble in embedded systems programming, particularly in the context of IoT.
+I tinker around many areas in tech. Over the years my interests have revolved around devops tooling, automation/orchestration, scientific computing, and embedded systems programming - particularly in the context of IoT and home automation. I also like to solder and cannibalize circuits and every now and then. Additionally, I've been dabbling in agentic AI topics and their applications recently.
 
-Anyways, here are some projects I think are cool or useful. Let me know what you think.
+Anyways, here are some projects I think are either cool or useful. Let me know what you think!
 
 ---
 ### Web Application Templates
@@ -19,7 +19,7 @@ These are template codebases that are ready to be copied for your next project. 
 
 | Repository                 | Description |
 | ---------------------- | ----------- |
-| [genesis](https://github.com/jrcasso/genesis)    | A simple, parallelizable, Docker-based CI/CD runner. Run arbitrary DAG workflows with containers and commands. |
+| [genesis](https://github.com/jrcasso/genesis)    | An efficient, parallelizable, Docker-based CI/CD pipeline runner. Create and run both simple and complex workflows with a directed acyclic graph configuration using containers, commands, and mounted volumes. This tooling implements another public library of mine, [gograph](https://github.com/jrcasso/gograph), to power an elegant lifecycle loop.|
 | [tugboat](https://github.com/jrcasso/tugboat)    | A microservice provisioning automation tool. Automates the creation and configuration of service dependencies for new microservices. |
 | [mailbucket](https://github.com/jrcasso/mailbucket)     | An email server that uploads incoming emails to an S3 bucket. Useful for email data processing. |
 | [SujuNN](https://github.com/jrcasso/SujuNN)     | A convolutional neural network that identifies N-sided polygons. |
@@ -30,9 +30,9 @@ These are template codebases that are ready to be copied for your next project. 
 | [conduit](https://github.com/jrcasso/conduit) | Go | A minimal, concurrent, asynchronous file processing ETL library for AWS S3 |
 | [gograph](https://github.com/jrcasso/gograph) | Go | A library providing graph theory primitives and operations |
 
-### Terraform Modules
+### Terraform Modules (Infrastructure as Code)
 
-If you're looking to create and maintain an engineering-organization-scale cloud infrastructure with Terraform, these modules will get you ~80% of the way there. These follow a DNS zone strategy devised [here](https://github.com/jrcasso/mean-demo/issues/50).
+If you're looking to create and maintain a proper engineering-org scale AWS infrastructure with Terraform, these modules will get you ~90% of the way there. These modules follow a DNS zone strategy as devised [here](https://github.com/jrcasso/mean-demo/issues/50), and implement ingress domains with a maintainable, extensible, and practical strategy for service-based application architectures. If you're also interested in microservices (for which these modules are indeed compatible!), be sure to check out the k8s [tugboat](https://github.com/jrcasso/tugboat) project.
 
 | Repository                 | Description |
 | ---------------------- | ----------- |
