@@ -1,5 +1,5 @@
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=jrcasso&rank=SECRET,S,A,AA,AAA" alt="jrcasso" /></p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=jrcasso&theme=dracula&rank=SECRET,S,A,AA,AAA" alt="jrcasso" /></p>
 
 ## Code that was read before it was written
 I started creating software in 2010 as a naive sophomore in high school, full of hope for the possibilities technology offered for the future. Armed with a shitty laptop and a cursory knowledge of C++, I began my tour of duty in the deepest trenches of despair: Windows Forms applications 🤡
