@@ -1,5 +1,8 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=jrcasso&theme=dracula&rank=SECRET,S,A,AA,AAA" alt="jrcasso" /></p>
+<p>
+
+</p>
 
 ## Code that was read before it was written
 I started creating software in 2010 as a naive sophomore in high school, full of hope for the possibilities technology offered for the future. Armed with a shitty laptop and a cursory knowledge of C++, I began my tour of duty in the deepest trenches of despair: Windows Forms applications 🤡
@@ -9,12 +12,13 @@ A decade and a half later, I have learned better. My interests revolve around ag
 Below are some personal projects I think are pretty cool; let me know if you find them useful.
 
 ---
-### Web Application Templates
+### Rapid Prototyping Project Templates
 
-These are template codebases that are ready to be copied for your next project. Begin your new web application with a preconfigured local setup that bootstraps in as little two clicks with Dev Containers!
+Begin prototyping your new idea with a template preconfigured with a robust local setup - it bootstraps in just two clicks! These rapid template codebases are well-suited to be the basis of your next project. Save yourself some time and clone these for an immediate development experience.
 
 | Repository                 | Description |
 | - | - |
+| [jupyter-notebook-template](https://github.com/jrcasso/jupyter-notebook-template)    | Jupyter notebook development, complete with a container-native development setup. |
 | [django-app-template](https://github.com/jrcasso/django-app-template)    | Django applications, complete with a container-native development setup. |
 | [go-app-template](https://github.com/jrcasso/go-app-template)    | Go applications or libraries, complete with a container-native development setup. |
 | [rails-app-template](https://github.com/jrcasso/rails-app-template)     | Rails applications, complete with a container-native development setup. |
