@@ -18,6 +18,7 @@ Begin prototyping your new idea with a template preconfigured with a robust loca
 
 | Repository                 | Description |
 | - | - |
+| [electron-app-template](https://github.com/jrcasso/electron-app-template)    | Electron app development, complete with a container-native development setup. |
 | [jupyter-notebook-template](https://github.com/jrcasso/jupyter-notebook-template)    | Jupyter notebook development, complete with a container-native development setup. |
 | [django-app-template](https://github.com/jrcasso/django-app-template)    | Django applications, complete with a container-native development setup. |
 | [go-app-template](https://github.com/jrcasso/go-app-template)    | Go applications or libraries, complete with a container-native development setup. |
