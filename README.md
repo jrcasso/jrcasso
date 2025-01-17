@@ -1,10 +1,9 @@
-
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=jrcasso&theme=dracula&rank=SECRET,S,A,AA,AAA" alt="jrcasso" /></p>
 <p>
 
 </p>
 
-## Code that was read before it was written
+## 🪶 Code that was read before it was written 🪶
 I started creating software in 2010 as a naive sophomore in high school, full of hope for the possibilities technology offered for the future. Armed with a shitty laptop and a cursory knowledge of C++, I began my tour of duty in the deepest trenches of despair: Windows Forms applications 🤡
 
 A decade and a half later, I have learned better. My interests revolve around agentic and generative AI applications, devops tooling, automation/orchestration, scientific computing, and embedded systems programming - particularly in the context of IoT and home automation. I also like to solder and cannibalize circuits and every now and then.
@@ -12,19 +11,22 @@ A decade and a half later, I have learned better. My interests revolve around ag
 Below are some personal projects I think are pretty cool; let me know if you find them useful.
 
 ---
-### Rapid Prototyping Project Templates
+### ⚡️ Rapid Prototyping Project Templates ⚡️
 
-Begin prototyping your new idea with a template preconfigured with a robust local setup - it bootstraps in just two clicks! These rapid template codebases are well-suited to be the basis of your next project. Save yourself some time and clone these for an immediate development experience.
+❗ **Begin prototyping in just two clicks!** ❗<br />
+Below are templates preconfigured with a robust local setup - and they completely self-configure! These template codebases are well-suited to be the basis of your next idea.
+
+🔹 **Pro-tip** 🔹<br />All of these templates are GitHub Codespaces compatible - run them in the cloud for even faster remote tinkering!
 
 | Repository                 | Description |
 | - | - |
-| [electron-app-template](https://github.com/jrcasso/electron-app-template)    | Electron app development, complete with a container-native development setup. |
-| [jupyter-notebook-template](https://github.com/jrcasso/jupyter-notebook-template)    | Jupyter notebook development, complete with a container-native development setup. |
-| [django-app-template](https://github.com/jrcasso/django-app-template)    | Django applications, complete with a container-native development setup. |
-| [go-app-template](https://github.com/jrcasso/go-app-template)    | Go applications or libraries, complete with a container-native development setup. |
-| [rails-app-template](https://github.com/jrcasso/rails-app-template)     | Rails applications, complete with a container-native development setup. |
+| [electron-app-template](https://github.com/jrcasso/electron-app-template)    | Electron app development with XQuartz. |
+| [jupyter-notebook-template](https://github.com/jrcasso/jupyter-notebook-template)    | Jupyter notebook development with an Ollama server and Ollama web UI. |
+| [django-app-template](https://github.com/jrcasso/django-app-template)    | Django app development with a PostgreSQL database.|
+| [go-app-template](https://github.com/jrcasso/go-app-template)    | Go application or library development. |
+| [rails-app-template](https://github.com/jrcasso/rails-app-template)     | Rails app development with a PostgreSQL database. |
 
-### Tools and Data Applications
+### 🔧 Tools and Data Applications 🔧
 
 | Repository                 | Description |
 | ---------------------- | ----------- |
@@ -33,15 +35,15 @@ Begin prototyping your new idea with a template preconfigured with a robust loca
 | [mailbucket](https://github.com/jrcasso/mailbucket)     | An email server that uploads incoming emails to an S3 bucket. Useful for email data processing. |
 | [tugboat](https://github.com/jrcasso/tugboat)    | A microservice provisioning automation tool. Automates the creation and configuration of service dependencies for new microservices. |
 
-### Libraries, Frameworks, and Collections
+### 🏗️ Libraries, Frameworks, and Collections 🏗️
 | Repository | Language | Description |
 |-|-|-|
 | [conduit](https://github.com/jrcasso/conduit) | Go | A minimal, concurrent, asynchronous file processing ETL library for AWS S3 |
 | [gograph](https://github.com/jrcasso/gograph) | Go | A library providing graph theory primitives and operations |
 
-### Terraform Modules
+### ⚙️ Terraform Modules ⚙️
 
-If you're looking to create and maintain a proper engineering-org scale AWS infrastructure with Terraform, these modules will get you pretty far. These modules follow a DNS zone strategy as devised [here](https://github.com/jrcasso/mean-demo/issues/50), and implement ingress domains with a maintainable, extensible, and practical strategy for service-based application architectures. Essentially, an organization is tied to a domain name, and there's a heirarchy of subdomains thereafter.
+If you're looking to create and maintain a proper engineering-org scale AWS infrastructure with Terraform, these modules will get you pretty far. These modules follow a DNS zone strategy as devised [here](https://github.com/jrcasso/mean-demo/issues/50), and implement ingress domains with a maintainable, extensible, and practical strategy for service-based application architectures. Essentially, an organization is tied to a domain name, and there's a heirarchy of subdomains thereafter that correspond to operating environments (e.g. prod, stage).
 
 If you're also interested in microservices (for which these modules are indeed compatible!), be sure to check out the k8s [tugboat](https://github.com/jrcasso/tugboat) project.
 
@@ -52,7 +54,7 @@ If you're also interested in microservices (for which these modules are indeed c
 | [terraform-aws-applications](https://github.com/jrcasso/terraform-aws-applications) | Deploy infrastructure for an application within an operation
 
 
-### Technologies
+### 🧪 Technologies 🧪
 
 Below are technologies I've implemented and maintained in a professional capacity; feel free to reach out if you need a hand with something!
 
