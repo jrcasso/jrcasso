@@ -23,6 +23,7 @@ Below are templates preconfigured with a robust local setup - and they completel
 | [electron-app-template](https://github.com/jrcasso/electron-app-template)    | Electron app development with XQuartz. |
 | [jupyter-notebook-template](https://github.com/jrcasso/jupyter-notebook-template)    | Jupyter notebook development with an Ollama server and Ollama web UI. |
 | [django-app-template](https://github.com/jrcasso/django-app-template)    | Django app development with a PostgreSQL database.|
+| [rust-app-template](https://github.com/jrcasso/rust-app-template)    | Rust application or library development.|
 | [go-app-template](https://github.com/jrcasso/go-app-template)    | Go application or library development. |
 | [rails-app-template](https://github.com/jrcasso/rails-app-template)     | Rails app development with a PostgreSQL database. |
 
