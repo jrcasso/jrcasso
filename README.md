@@ -23,7 +23,7 @@ Below are various common project templates preconfigured with a robust local set
 > [!TIP]
 > **You can spin up any of these prototypes, in the cloud, right now, with just two clicks - for *free* 😎**
 >
-> All of these templates are GitHub Codespaces compatible - *and you receive free GitHub Codespace time!* They can also spin up in just two clicks on your local machine using Docker, too. You could even spin these up in Codespaces from your phone 
+> All of these templates are GitHub Codespaces compatible - *and you receive free GitHub Codespace time!* They can also spin up in just two clicks on your local machine using Docker, too. In fact, you could even spin these up in Codespaces from your phone, if you were so bold.
 
 | Repository                 | Description |
 | - | - |
