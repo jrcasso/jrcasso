@@ -4,9 +4,13 @@
 </p>
 
 ## 🪶 Code that was read before it was written 🪶
-I started creating software in 2010 as a naive sophomore in high school, full of hope for the possibilities technology offered for the future. Armed with a shitty laptop and a cursory knowledge of C++, I began my tour of duty in the deepest trenches of despair: Windows Forms applications 🤡
+<details>
 
-A decade and a half later, I have learned better. My interests revolve around agentic and generative AI applications, devops tooling, automation/orchestration, scientific computing, and embedded systems programming - particularly in the context of IoT and home automation. I also like to solder and cannibalize circuits and every now and then.
+<summary>Short Background</summary>
+I started creating software in 2010 as a naive sophomore in high school, full of hope for the possibilities technology offered for the future. Armed with a shitty laptop and a cursory knowledge of C++, I began my tour of duty in the deepest trenches of despair: Windows Forms applications 🤡 Now, a decade and a half later, I have learned much and applied better. Welcome to the show.
+</details>
+
+ My interests revolve around agentic and generative AI applications, devops tooling, automation/orchestration, scientific computing, and embedded systems programming - particularly in the context of IoT and home automation. I also like to solder and cannibalize circuits and every now and then.
 
 Below are some personal projects I think are pretty cool; let me know if you find them useful.
 
@@ -47,9 +51,18 @@ Below are various common project templates preconfigured with a robust local set
 
 ### ⚙️ Terraform Modules ⚙️
 
-If you're looking to create and maintain a proper engineering-org scale AWS infrastructure with Terraform, these modules will get you pretty far. These modules follow a DNS zone strategy as devised [here](https://github.com/jrcasso/mean-demo/issues/50), and implement ingress domains with a maintainable, extensible, and practical strategy for service-based application architectures. Essentially, an organization is tied to a domain name, and there's a heirarchy of subdomains thereafter that correspond to operating environments (e.g. prod, stage).
+If you're looking to create, maintain, extend, and secure a proper engineering-org scale AWS infrastructure with Terraform, these modules will get you far.
+
+<details>
+
+<summary>But how?</summary>
+
+These modules follow a DNS zone strategy as devised [here](https://github.com/jrcasso/mean-demo/issues/50), and implement ingress domains with a maintainable, extensible, and practical strategy for service-based application architectures. Essentially, an organization is tied to a domain name, and there's a heirarchy of subdomains thereafter that correspond to operating environments (e.g. prod, stage). For each operating environment, services are delegated a unique subdomain (e.g. web.dev.yourdomain.com, api.prod.yourdomain.com).
+
+Proper IP space CIDR boundaries accompany all of these logical subdivisions. This strategy ensures strict layer 3 data boundaries while optimizing network performance.
 
 If you're also interested in microservices (for which these modules are indeed compatible!), be sure to check out the k8s [tugboat](https://github.com/jrcasso/tugboat) project.
+</details>
 
 | Repository                 | Description |
 | ---------------------- | ----------- |
