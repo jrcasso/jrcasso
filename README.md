@@ -20,7 +20,7 @@ Below are some personal projects I think are pretty cool; let me know if you fin
 Below are common project templates prepackaged with a robust local setup - and they completely self-configure! These repos are well-suited to be the basis of your next idea.
 
 > [!TIP]
-> **You can spin up any of these prototypes, in the cloud, right now, with just three clicks - and it's *free* 😎**
+> **With just three clicks, you can immediately spin up any of these prototypes in the cloud, for *free* 😎.**
 >
 > All of these templates are GitHub Codespaces compatible - *and you receive free GitHub Codespace time!* They can also spin up in just *two* clicks on your local machine using Docker if you want something local. You could even spin these up in Codespaces from your phone, if you were so bold.
 >
