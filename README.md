@@ -28,6 +28,7 @@ Below are various common project templates preconfigured with a robust local set
 | Repository                 | Description |
 | - | - |
 | [electron-app-template](https://github.com/jrcasso/electron-app-template)    | Electron app development with XQuartz. |
+| [next-app-template](https://github.com/jrcasso/next-app-template)    | NextJS app development with TypeScript and PostgreSQL. |
 | [jupyter-notebook-template](https://github.com/jrcasso/jupyter-notebook-template)    | Jupyter notebook development with an Ollama server and Ollama web UI. |
 | [django-app-template](https://github.com/jrcasso/django-app-template)    | Django app development with a PostgreSQL database.|
 | [rust-app-template](https://github.com/jrcasso/rust-app-template)    | Rust application or library development.|
