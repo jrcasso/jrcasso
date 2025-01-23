@@ -2,8 +2,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=jrcasso&theme=dracula&rank=SECRET,S,A,AA,AAA" alt="jrcasso" />
 </div>
 <div style="text-align: center;">
-
-## 🪶 Code that was read before it was written 🪶
+<h2>🪶 Code that was read before it was written 🪶</h2>
 </div>
 <details>
 
@@ -11,16 +10,16 @@
 I started creating software in 2010 as a naive sophomore in high school, full of hope for the possibilities technology offered for the future. Armed with a shitty laptop and a cursory knowledge of C++, I began my tour of duty in the deepest trenches of despair: Windows Forms applications 🤡 Now, a decade and a half later, I have learned much and applied better. Welcome to the show.
 </details>
 
-&emsp;&emsp;My interests revolve around agentic and generative AI applications, DevOps tooling, automation, orchestration, scientific computing, and embedded systems programming - particularly in the context of IoT and home automation. I also like to solder and cannibalize circuits and every now and then.
+My interests revolve around agentic and generative AI applications, DevOps tooling, automation, orchestration, scientific computing, and embedded systems programming - particularly in the context of IoT and home automation. I also like to solder and cannibalize circuits and every now and then.
 
 ---
 <div style="text-align: center;">
 
-## ⚡️ 3-click Rapid Prototyping ⚡️
+<h2>⚡️ 3-click Rapid Prototyping ⚡️</h2>
 </div>
 
 
-&emsp;&emsp; Below are common project templates prepackaged with a robust local setup - and they completely self-configure! These repos are well-suited to be the basis of your next idea.
+Below are common project templates prepackaged with a robust local setup - and they completely self-configure! These repos are well-suited to be the basis of your next idea.
 
 > [!TIP]
 > **With just three clicks, you can immediately spin up any of these prototypes in the cloud, for *free*.** Or with just two clicks locally 😎.
@@ -47,7 +46,7 @@ I started creating software in 2010 as a naive sophomore in high school, full of
 
 <div style="text-align: center;">
 
-## 🔧 Tools and Data Applications 🔧
+<h2>🔧 Tools and Data Applications 🔧</h2>
 </div>
 
 
@@ -60,7 +59,7 @@ I started creating software in 2010 as a naive sophomore in high school, full of
 
 <div style="text-align: center;">
 
-## 🏗️ Libraries, Frameworks, and Collections 🏗️
+<h2>🏗️ Libraries, Frameworks, and Collections 🏗️</h2>
 </div>
 
 | Repository | Language | Description |
@@ -69,19 +68,19 @@ I started creating software in 2010 as a naive sophomore in high school, full of
 | [gograph](https://github.com/jrcasso/gograph) | Go | A library providing graph theory primitives and operations |
 <div style="text-align: center;">
 
-## ⚙️ Terraform Modules ⚙️
+<h2>⚙️ Terraform Modules ⚙️</h2>
 </div>
 
 
-&emsp;&emsp; If you're looking to create, maintain, extend, and secure a proper engineering-org scale AWS infrastructure with Terraform, these modules will get you far.
+If you're looking to create, maintain, extend, and secure a proper engineering-org scale AWS infrastructure with Terraform, these modules will get you far.
 
 <details>
 
 <summary>But how?</summary>
 
-&emsp;&emsp;These modules follow a DNS zone strategy as devised [here](https://github.com/jrcasso/mean-demo/issues/50), and implement ingress domains with a maintainable, extensible, and practical strategy for service-based application architectures. Essentially, an organization is tied to a domain name, and there's a heirarchy of subdomains thereafter that correspond to operating environments (e.g. prod, stage). For each operating environment, services are delegated a unique subdomain (e.g. web.dev.yourdomain.com, api.prod.yourdomain.com).
+These modules follow a DNS zone strategy as devised [here](https://github.com/jrcasso/mean-demo/issues/50), and implement ingress domains with a maintainable, extensible, and practical strategy for service-based application architectures. Essentially, an organization is tied to a domain name, and there's a heirarchy of subdomains thereafter that correspond to operating environments (e.g. prod, stage). For each operating environment, services are delegated a unique subdomain (e.g. web.dev.yourdomain.com, api.prod.yourdomain.com).
 
-&emsp;&emsp;Proper IP space CIDR boundaries accompany all of these logical subdivisions. This strategy ensures strict layer 3 data boundaries while optimizing network performance.<br /><br />
+Proper IP space CIDR boundaries accompany all of these logical subdivisions. This strategy ensures strict layer 3 data boundaries while optimizing network performance.<br /><br />
 </details>
 
 | Repository                 | Description |
@@ -92,11 +91,11 @@ I started creating software in 2010 as a naive sophomore in high school, full of
 
 <div style="text-align: center;">
 
-## 🔬 Technologies 🔬
+<h2>🔬 Technologies 🔬</h2>
 </div>
 
 
-&emsp;&emsp;Below are technologies I've implemented and maintained in a professional capacity; feel free to reach out if you need a hand with something!
+Below are technologies I've implemented and maintained in a professional capacity; feel free to reach out if you need a hand with something!
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jrcasso&hide=jupyter%20notebook,html&show_icons=true&locale=en&layout=donut&card_width&langs_count=8" alt="jrcasso" /></p>
 
