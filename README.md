@@ -1,33 +1,38 @@
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=jrcasso&theme=dracula&rank=SECRET,S,A,AA,AAA" alt="jrcasso" /></p>
-<p>
-
-</p>
+<div style="text-align: center;">
+<img src="https://github-profile-trophy.vercel.app/?username=jrcasso&theme=dracula&rank=SECRET,S,A,AA,AAA" alt="jrcasso" />
+</div>
+<div style="text-align: center;">
 
 ## 🪶 Code that was read before it was written 🪶
+</div>
 <details>
 
-<summary>Short Background</summary>
+<summary>My Background</summary>
 I started creating software in 2010 as a naive sophomore in high school, full of hope for the possibilities technology offered for the future. Armed with a shitty laptop and a cursory knowledge of C++, I began my tour of duty in the deepest trenches of despair: Windows Forms applications 🤡 Now, a decade and a half later, I have learned much and applied better. Welcome to the show.
 </details>
 
- My interests revolve around agentic and generative AI applications, devops tooling, automation/orchestration, scientific computing, and embedded systems programming - particularly in the context of IoT and home automation. I also like to solder and cannibalize circuits and every now and then.
-
-Below are some personal projects I think are pretty cool; let me know if you find them useful.
+&emsp;&emsp;My interests revolve around agentic and generative AI applications, DevOps tooling, automation, orchestration, scientific computing, and embedded systems programming - particularly in the context of IoT and home automation. I also like to solder and cannibalize circuits and every now and then.
 
 ---
-### ⚡️ 3-click Rapid Prototyping ⚡️
+<div style="text-align: center;">
 
-Below are common project templates prepackaged with a robust local setup - and they completely self-configure! These repos are well-suited to be the basis of your next idea.
+## ⚡️ 3-click Rapid Prototyping ⚡️
+</div>
+
+
+&emsp;&emsp; Below are common project templates prepackaged with a robust local setup - and they completely self-configure! These repos are well-suited to be the basis of your next idea.
 
 > [!TIP]
-> **With just three clicks, you can immediately spin up any of these prototypes in the cloud, for *free* 😎.**
->
-> All of these templates are GitHub Codespaces compatible - *and you receive free GitHub Codespace time!* They can also spin up in *just **two** clicks* using Docker if you want to develop locally. You could even spin these up in Codespaces from your phone, if you were so bold.
+> **With just three clicks, you can immediately spin up any of these prototypes in the cloud, for *free*.** Or with just two clicks locally 😎.
 >
 > <details>
 > <summary><i>Click here to see how easy it is!</i></summary><br>
 >
 > ![Codespace gif](./assets/codespaces.gif)
+> </details>
+> <details>
+> <summary><i>How can I host my prototype on GitHub for free?</i></summary><br />
+> All of these templates are GitHub Codespaces compatible - *and you receive free GitHub Codespace time!* They can also spin up in *just **two** clicks* using Docker if you want to develop locally. You could even spin these up in Codespaces from your phone, if you were so bold.
 > </details>
 
 | Repository                 | Description |
@@ -40,7 +45,11 @@ Below are common project templates prepackaged with a robust local setup - and t
 | [go-app-template](https://github.com/jrcasso/go-app-template)    | Go application or library development. |
 | [rails-app-template](https://github.com/jrcasso/rails-app-template)     | Rails app development with a PostgreSQL database. |
 
-### 🔧 Tools and Data Applications 🔧
+<div style="text-align: center;">
+
+## 🔧 Tools and Data Applications 🔧
+</div>
+
 
 | Repository                 | Description |
 | ---------------------- | ----------- |
@@ -49,25 +58,30 @@ Below are common project templates prepackaged with a robust local setup - and t
 | [mailbucket](https://github.com/jrcasso/mailbucket)     | An email server that uploads incoming emails to an S3 bucket. Useful for email data processing. |
 | [tugboat](https://github.com/jrcasso/tugboat)    | A microservice provisioning automation tool. Automates the creation and configuration of service dependencies for new microservices. |
 
-### 🏗️ Libraries, Frameworks, and Collections 🏗️
+<div style="text-align: center;">
+
+## 🏗️ Libraries, Frameworks, and Collections 🏗️
+</div>
+
 | Repository | Language | Description |
 |-|-|-|
 | [conduit](https://github.com/jrcasso/conduit) | Go | A minimal, concurrent, asynchronous file processing ETL library for AWS S3 |
 | [gograph](https://github.com/jrcasso/gograph) | Go | A library providing graph theory primitives and operations |
+<div style="text-align: center;">
 
-### ⚙️ Terraform Modules ⚙️
+## ⚙️ Terraform Modules ⚙️
+</div>
 
-If you're looking to create, maintain, extend, and secure a proper engineering-org scale AWS infrastructure with Terraform, these modules will get you far.
+
+&emsp;&emsp; If you're looking to create, maintain, extend, and secure a proper engineering-org scale AWS infrastructure with Terraform, these modules will get you far.
 
 <details>
 
 <summary>But how?</summary>
 
-These modules follow a DNS zone strategy as devised [here](https://github.com/jrcasso/mean-demo/issues/50), and implement ingress domains with a maintainable, extensible, and practical strategy for service-based application architectures. Essentially, an organization is tied to a domain name, and there's a heirarchy of subdomains thereafter that correspond to operating environments (e.g. prod, stage). For each operating environment, services are delegated a unique subdomain (e.g. web.dev.yourdomain.com, api.prod.yourdomain.com).
+&emsp;&emsp;These modules follow a DNS zone strategy as devised [here](https://github.com/jrcasso/mean-demo/issues/50), and implement ingress domains with a maintainable, extensible, and practical strategy for service-based application architectures. Essentially, an organization is tied to a domain name, and there's a heirarchy of subdomains thereafter that correspond to operating environments (e.g. prod, stage). For each operating environment, services are delegated a unique subdomain (e.g. web.dev.yourdomain.com, api.prod.yourdomain.com).
 
-Proper IP space CIDR boundaries accompany all of these logical subdivisions. This strategy ensures strict layer 3 data boundaries while optimizing network performance.
-
-If you're also interested in microservices (for which these modules are indeed compatible!), be sure to check out the k8s [tugboat](https://github.com/jrcasso/tugboat) project.
+&emsp;&emsp;Proper IP space CIDR boundaries accompany all of these logical subdivisions. This strategy ensures strict layer 3 data boundaries while optimizing network performance.<br /><br />
 </details>
 
 | Repository                 | Description |
@@ -76,10 +90,13 @@ If you're also interested in microservices (for which these modules are indeed c
 | [terraform-aws-operations](https://github.com/jrcasso/terraform-aws-operations) | Deploy infrastructure for an operation within an organization (e.g. stage, prod) |
 | [terraform-aws-applications](https://github.com/jrcasso/terraform-aws-applications) | Deploy infrastructure for an application within an operation
 
+<div style="text-align: center;">
 
-### 🧪 Technologies 🧪
+## 🔬 Technologies 🔬
+</div>
 
-Below are technologies I've implemented and maintained in a professional capacity; feel free to reach out if you need a hand with something!
+
+&emsp;&emsp;Below are technologies I've implemented and maintained in a professional capacity; feel free to reach out if you need a hand with something!
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jrcasso&hide=jupyter%20notebook,html&show_icons=true&locale=en&layout=donut&card_width&langs_count=8" alt="jrcasso" /></p>
 
