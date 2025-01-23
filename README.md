@@ -24,14 +24,11 @@ Below are common project templates prepackaged with a robust local setup - and t
 > [!TIP]
 > **With just three clicks, you can immediately spin up any of these prototypes in the cloud, for *free*.** Or with just two clicks locally 😎.
 >
+> All of these templates are GitHub Codespaces compatible - *and you receive free GitHub Codespace time!* They can also spin up in *just **two** clicks* using Docker if you want to develop locally. You could even spin these up in Codespaces from your phone, if you were so bold.
 > <details>
 > <summary><i>Click here to see how easy it is!</i></summary><br>
 >
 > ![Codespace gif](./assets/codespaces.gif)
-> </details>
-> <details>
-> <summary><i>How can I host my prototype on GitHub for free?</i></summary><br />
-> All of these templates are GitHub Codespaces compatible - *and you receive free GitHub Codespace time!* They can also spin up in *just **two** clicks* using Docker if you want to develop locally. You could even spin these up in Codespaces from your phone, if you were so bold.
 > </details>
 
 | Repository                 | Description |
