@@ -15,23 +15,24 @@ I started creating software in 2010 as a naive sophomore in high school, full of
 Below are some personal projects I think are pretty cool; let me know if you find them useful.
 
 ---
-### ⚡️ 2-click Rapid Prototyping Templates ⚡️
+### ⚡️ 3-click Rapid Prototyping ⚡️
 
-❗ **Start prototyping in just two clicks!** ❗<br />
-Below are various common project templates preconfigured with a robust local setup - and they completely self-configure! These repos are well-suited to be the basis of your next idea.
+Below are common project templates prepackaged with a robust local setup - and they completely self-configure! These repos are well-suited to be the basis of your next idea.
 
 > [!TIP]
-> **You can spin up any of these prototypes, in the cloud, right now, with just two clicks - for *free* 😎**
+> **You can spin up any of these prototypes, in the cloud, right now, with just three clicks - and it's *free* 😎**
 >
-> All of these templates are GitHub Codespaces compatible - *and you receive free GitHub Codespace time!* They can also spin up in just two clicks on your local machine using Docker, too. In fact, you could even spin these up in Codespaces from your phone, if you were so bold.
+> All of these templates are GitHub Codespaces compatible - *and you receive free GitHub Codespace time!* They can also spin up in just *two* clicks on your local machine using Docker if you want something local. You could even spin these up in Codespaces from your phone, if you were so bold.
+>
+> For Codespaces, simply go to the repo, click ***Code***, click ***Codespaces***, and finally ***Create codespace on main***. Your prototype will spin up right away.
 
 | Repository                 | Description |
 | - | - |
-| [electron-app-template](https://github.com/jrcasso/electron-app-template)    | Electron app development with XQuartz. |
 | [next-app-template](https://github.com/jrcasso/next-app-template)    | NextJS app development with TypeScript and PostgreSQL. |
 | [jupyter-notebook-template](https://github.com/jrcasso/jupyter-notebook-template)    | Jupyter notebook development with an Ollama server and Ollama web UI. |
 | [django-app-template](https://github.com/jrcasso/django-app-template)    | Django app development with a PostgreSQL database.|
 | [rust-app-template](https://github.com/jrcasso/rust-app-template)    | Rust application or library development.|
+| [electron-app-template](https://github.com/jrcasso/electron-app-template)    | Electron app development with XQuartz. Codespaces will not spawn windows. |
 | [go-app-template](https://github.com/jrcasso/go-app-template)    | Go application or library development. |
 | [rails-app-template](https://github.com/jrcasso/rails-app-template)     | Rails app development with a PostgreSQL database. |
 
