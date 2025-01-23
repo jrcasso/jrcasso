@@ -22,7 +22,7 @@ Below are common project templates prepackaged with a robust local setup - and t
 > [!TIP]
 > **With just three clicks, you can immediately spin up any of these prototypes in the cloud, for *free* 😎.**
 >
-> All of these templates are GitHub Codespaces compatible - *and you receive free GitHub Codespace time!* They can also spin up in just *two* clicks on your local machine using Docker if you want something local. You could even spin these up in Codespaces from your phone, if you were so bold.
+> All of these templates are GitHub Codespaces compatible - *and you receive free GitHub Codespace time!* They can also spin up in *just **two** clicks* using Docker if you want to develop locally. You could even spin these up in Codespaces from your phone, if you were so bold.
 >
 > For Codespaces, simply go to the repo, click ***Code***, click ***Codespaces***, and finally ***Create codespace on main***. Your prototype will spin up right away.
 
