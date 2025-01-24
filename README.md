@@ -22,7 +22,7 @@ My interests revolve around agentic and generative AI applications, DevOps tooli
 Below are common project templates prepackaged with a robust local setup - and they completely self-configure! These repos are well-suited to be the basis of your next idea.
 
 > [!TIP]
-> **With just three clicks, you can immediately spin up any of these prototypes in the cloud, for *free*.** Or with just two clicks locally 😎.
+> **With just three clicks, you can immediately spin up any of these prototypes in the cloud, for *free* 😎**
 >
 > All of these templates are GitHub Codespaces compatible - *and you receive free GitHub Codespace time!* They can also spin up in *just **two** clicks* using Docker if you want to develop locally. You could even spin these up in Codespaces from your phone, if you were so bold.
 > <details>
