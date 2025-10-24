@@ -62,10 +62,10 @@ Below are common project templates prepackaged with a robust local setup - and t
 
 | Repository                 | Description |
 | ---------------------- | ----------- |
-| [genesis](https://github.com/jrcasso/genesis)    | An efficient, parallelizable, Docker-based CI/CD pipeline runner. Create and run both simple and complex workflows with a directed acyclic graph configuration using containers, commands, and mounted volumes. This tooling implements another public library of mine, [gograph](https://github.com/jrcasso/gograph), to power an elegant lifecycle loop.|
-| [SujuNN](https://github.com/jrcasso/SujuNN)     | A convolutional neural network that can identify the number of sides in a polygon. |
+| [genesis](https://github.com/jrcasso/genesis)    | A client-based CI/CD runner. Run efficient, parallelizable, Docker-based CI/CD pipelines on your client. Create and run both simple and complex workflows with the documented config, supporting containers, commands, and mounted volumes.</br ></br >This tooling implements a public library of mine for handling graph operations, [jrcasso/gograph](https://github.com/jrcasso/gograph)!|
+| [SujuNN](https://github.com/jrcasso/SujuNN)     | A convolutional neural network that can identify the number of sides in a given polygon. |
 | [mailbucket](https://github.com/jrcasso/mailbucket)     | An email server that uploads incoming emails to an S3 bucket. Useful for email data processing. |
-| [tugboat](https://github.com/jrcasso/tugboat)    | A microservice provisioning automation tool. Automates the creation and configuration of service dependencies for new microservices. |
+| [tugboat](https://github.com/jrcasso/tugboat)    | A microservice provisioning automation tool. Automates the creation and configuration of service dependencies for new Kuberenetes-based microservices. |
 
 <div style="text-align: center;">
 
