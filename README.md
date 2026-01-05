@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-<img src="https://github-profile-trophy.vercel.app/?username=jrcasso&theme=dracula&rank=SECRET,S,A,AA,AAA" alt="jrcasso" />
+<img src="./assets/stats.svg" alt="jrcasso" />
 </div>
 <div style="text-align: center;">
 <h2>🪶 Code that was read before it was written 🪶</h2>
